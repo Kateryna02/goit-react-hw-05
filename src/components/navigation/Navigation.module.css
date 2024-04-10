@@ -1,0 +1,15 @@
+.nav{
+margin: 20px auto;
+}
+.navList{
+    display: flex;
+        gap: 20px;
+        list-style: none;
+        font-size: 30px;
+}
+.navItem{
+
+}
+.navLink{
+    color: #4f54b091;
+}

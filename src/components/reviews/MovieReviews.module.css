@@ -1,0 +1,17 @@
+.reviews{
+font-size: 20px;
+    text-align: center;
+}
+.reviewsList{
+font-size: 15px;
+    color: #2b3e5fd1;
+}
+.reviewsTitle{
+    font-size: 18px;
+    color: #202f49d1;
+    font-weight: 600;
+
+}
+div{
+    margin-right: 25px;
+}

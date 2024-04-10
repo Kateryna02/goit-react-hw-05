@@ -1,0 +1,24 @@
+.conteiner{
+    width: 400px;
+        background-color: #dce0ea54;
+}
+.heading{
+    color: #050536a8;
+        text-align: center;
+        padding-top: 30px;
+        padding-bottom: 30px;
+}
+.list{
+    list-style: none;
+        display: flex;
+        flex-direction: column;
+        margin-left: 30px;
+        gap: 7px;
+        font-size: 20px;
+}
+.listItem{
+    
+}
+a{
+        color: #1e263ab5;
+}

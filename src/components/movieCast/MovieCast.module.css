@@ -1,0 +1,14 @@
+.cast{
+    font-size: 20px;
+    text-align: center;
+}
+.castTitle{
+list-style: none;
+}
+li{
+    font-size: 15px;
+    color:#2b3e5fd1;
+}
+div {
+    margin-right: 25px;
+}
